@@ -14,7 +14,7 @@ It is observed that specially abled people are unable to communicate properly du
 |**ImageAugmentation**|**Image Augmentation**|
 |**ALPHABETLIVE**|**A-Z final Prediction**|
 |**DatasetDT**|**Distance Transformation after extracting skin**|
-|**final_skin_optimized**|**Skin pixel according to research Paper algo**|<br/>
+|**final_skin_optimized**|**Skin pixel according to research Paper algo**| <br/><br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0001.jpg)<br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0002.jpg)<br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0003.jpg)<br/>
