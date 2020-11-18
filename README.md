@@ -30,7 +30,3 @@
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0029.jpg)<br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0030.jpg)<br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0031.jpg)<br/>
-![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0032.jpg)<br/>
-
-
-
