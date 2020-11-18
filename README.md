@@ -8,13 +8,13 @@ It is observed that specially abled people are unable to communicate properly du
 |**ResNet50**|**ResNet50 model Architecture**|
 |**TrainDataGenerator**|**Dataset Splitting using image data generator**|
 |**TrackBar**|**HSV TrackBar**|
-|**ObjectPathTracking|Track Centre of object and draw path of travelling|
-|LeNet5|LeNet5 model Architecture|
-|LabellingToData|creaing Pickle|
-|ImageAugmentation|Image Augmentation|
-|ALPHABETLIVE|A-Z final Prediction|
-|DatasetDT|Distance Transformation after extracting skin|
-|final_skin_optimized -- Skin pixel according to research Paper algo**|<br/>
+|**ObjectPathTracking**|**Track Centre of object and draw path of travelling**|
+|**LeNet5**|**LeNet5 model Architecture**|
+|**LabellingToData**|**creaing Pickle**|
+|**ImageAugmentation**|**Image Augmentation**|
+|**ALPHABETLIVE**|**A-Z final Prediction**|
+|**DatasetDT**|**Distance Transformation after extracting skin**|
+|**final_skin_optimized**|**Skin pixel according to research Paper algo**|<br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0001.jpg)<br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0002.jpg)<br/>
 ![](https://github.com/arjunparmar/GISA-GestureInterpreterForSpeciallyAbled-/blob/main/Data/DOCUENTATION_GISA_page-0003.jpg)<br/>
